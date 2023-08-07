@@ -1,0 +1,113 @@
+------------------P1------------------------------------
+selenium-rahul-1-331---->
+331-324---done
+312-324--core java-part3-continue
+294-311-core java-part2-continue
+269-293-java oops basics for selenium-part1-continue
+260-268-maven-continue
+250-259-git-continue
+247-249-cross browser tesing----continue
+
+1,2,3,4,5,6,7,--introduction-continue
+8,9,10,11,12,13,14,15,16,17-install java and selenium-continue
+18,19,20,21,22,23,24,25,26,27,28-brushup java concept-continue
+29-core java in depth-continue
+30-37-locator technique-continue
+
+
+---------------------------------------------------------------
+java from zero to hero-1-26->1,2,3-done
+
+4,5,6,7,8,9,10
+11,12,13,14,15,16,17,18,19,20
+21,22,23,24,25,26
+
+----------------------------------------------------------
+learn java-1-32-->1,2,3,4,5,6,7-done
+
+8,9,10
+11,12,13,14,15,16,17,18,19,20
+21,22,23,24,25,26,27,28,29,30
+31,32
+
+greekforgreeks-done
+------------
+
+
+-----------------------------------------------------------
+framework from scratch-1-44->
+16-done
+1,2,3,4,5,6,7,8,9,10
+11,12,13,14,15,17,18,19,20
+21,22,23,24,25,26,27,28,29,30
+31,32,33,34,35,36,37,38,39,40
+41,42,43,44
+------------------------------------------------------------
+UFT program/selenium program/lead/mgt/resume/rnd-room-pra
+
+udemy-uft-practise--1,2,3,4,5,6,7,8,9,10
+11,12,13,14,15,17,18,19,20
+21,22,23,24,25,26,27,28,29,30
+31,32,33,34,35,36,37,38,39,40
+41,42,43,44
+
+alm----
+framework-----
+resume and domain----
+
+chartgpt--chartgpt-upandey104@gmail.com,Pandey@1234
+github-Ashu@1357,upandey3@gmail.com
+username-upandey3-dotcom
+
+----------------------------------------------------P2---------------------
+pmp-1-400-in detail-->20,21,22---->done
+23,24,25,26,27,28,29,30
+31,32,33,34,35,36,37,38,39,40
+41,42,43,44
+-------------------------------------------------------------------
+jmeter-raghav-1-44--->
+44,43-done
+35,36,37,38,39,40,41,42
+
+1,2,3,4-done
+5,6,7,8,9,10
+11,12,13,14,15,17,18,19,20
+21,22,23,24,25,26,27,28,29,30
+31,32,33,34
+-------------------------------------------
+jmeter bhaibhav-1-87->
+1,2,3,4,5,6,7,8,9,10
+11,12,13,14,15,17,18,19,20
+21,22,23,24,25,26,27,28,29,30
+31,32,33,34,35,36,37,38,39,40
+41,42,43,44
+---------------------------------------------------------
+jmeter-dss-1-10->
+1,2,3,4,5,6,7,8,9,10
+--------------------------------------------------
+
+
+
+
+
+
+
+
+---------------------------------------------------
+After p1 and p2
+-------------------
+istqb-6-65-->go through-->1(6-16)---P3
+selenium bhaibhav-11-152-->go through-1(20-152),room-pra-1(1-10)---P3
+jira expert--7-37-->in details-1(7-15)---P3
+sql-10-22-->go through-1(10-20),room-pra-1(1-10)---P3
+load runner-7-46->go through-1(7-20),room-pra-(1-10)---P3
+restapi-rahul-11-167->go through-1(11-20),room-pra-1(1-10)---P3
+docker-11-46-go trough-1(11-20),room-pra-1(1-10)-----P3
+
+after p3
+-------------
+appium bhaivab-15-182-->go through-1(15-20)--P4
+katalon-13-32-->go through-1(15-20)--P4----later check mostly done,if required practise later(free or trial license download)
+robot-11-16->go through-1(16),room-pra-1(1-10)--P4
+python-9-43->go through-1(9-15)--P4
+appium rahul-12-155->go through(12-22),room-pra-1(1-4)--P4
