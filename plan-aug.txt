@@ -5,7 +5,7 @@ selenium-rahul-1-331---->
 294-311-core java-part2-continue
 269-293-java oops basics for selenium-part1-continue
 260-268-maven-continue
-250-259-git-continue
+250-259-git-hoo
 247-249-cross browser tesing----continue
 
 1,2,3,4,5,6,7,--introduction-continue
@@ -107,7 +107,7 @@ docker-11-46-go trough-1(11-20),room-pra-1(1-10)-----P3
 after p3
 -------------
 appium bhaivab-15-182-->go through-1(15-20)--P4
-katalon-13-32-->go through-1(15-20)--P4----later check mostly done,if required practise later(free or trial license download)
+katalon-13-32-->go through-1(15-20)--P4-
 robot-11-16->go through-1(16),room-pra-1(1-10)--P4
 python-9-43->go through-1(9-15)--P4
 appium rahul-12-155->go through(12-22),room-pra-1(1-4)--P4
